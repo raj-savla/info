@@ -145,13 +145,11 @@ p.lead {
 }
 
 section.resume-section {
-  /* padding-top: 5rem !important;
-  padding-bottom: 5rem !important; */
   max-width: 75rem;
 }
 
 .new_one{
-  padding-top: 5rem !important;
+  padding-top: 3rem !important;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -159,19 +157,12 @@ section.resume-section .resume-item .resume-date {
 }
 
 @media (min-width: 768px) {
-  /* section.resume-section {
-    min-height: 100vh;
-  } */
   section.resume-section .resume-item .resume-date {
     min-width: 18rem;
   }
 }
 
 @media (max-width: 425px) {
-  /* section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
-  } */
   div.new_one{
     padding-top: 2rem !important;
   }
